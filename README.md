@@ -1,4 +1,7 @@
-# ![waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hello, I'm Kanishk Dixit
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">Hello, I'm Kanishk Dixit
+</h1>
+
 
 I'm a passionate **Software Developer Engineer** specializing in backend development. My expertise lies in crafting robust and scalable systems using a range of technologies. Here's a bit more about what I do:
 
