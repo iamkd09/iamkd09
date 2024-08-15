@@ -19,6 +19,7 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 
 - **Healthstack**: A comprehensive online healthcare platform for tracking and sharing patient health records.
 - **Driver Drowsiness Detection**: A project using OpenCV and Keras to detect driver drowsiness.
+- **College ERP System**: An integrated management system for college administration using Python and Django.
 - **Online Food Ordering System**: A core PHP project with MySQL for managing food orders.
 
 ## 🌐 Connect with Me
