@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kanishk Dixit
+# ![waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hello, I'm Kanishk Dixit
 
 I'm a passionate **Software Developer Engineer** specializing in backend development. My expertise lies in crafting robust and scalable systems using a range of technologies. Here's a bit more about what I do:
 
