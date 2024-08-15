@@ -24,8 +24,8 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kanishk-dixit-079763197/)
-- [Twitter](https://twitter.com/kanishk_dixit)
-- [Email](mailto:myemail@gmail.com)
+- [StackOverFlow](https://www.linkedin.com/in/kanishk-dixit-079763197/)
+- [Email](kanishkdixitkd9@gmail.com)
 
 ## 📬 Let's Get in Touch!
 
