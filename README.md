@@ -7,7 +7,7 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 
 ## 💻 Technologies & Tools
 
-- **Backend Development**: Python, Django, Django REST Framework, FAST API
+- **Backend Development**: Python, Go,  Django, Django REST Framework, FAST API
 - **Automation**: Creating automation scripts to streamline processes
 - **Databases**: MySQL, SQL
 - **Other Tools**: OpenCV, Keras, Postman
@@ -41,6 +41,7 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 🔧 **Tools & Technologies**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092D37?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
