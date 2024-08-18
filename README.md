@@ -10,7 +10,7 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 - **Backend Development**: Python, Go,  Django, Django REST Framework, FAST API
 - **Automation**: Creating automation scripts to streamline processes
 - **Databases**: MySQL, SQL
-- **Other Tools**: OpenCV, Keras, Postman
+- **Other Tools**: Kafka, OpenCV, Keras, Postman
 
 ## 🌟 What I Do
 
@@ -44,6 +44,7 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092D37?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat&logo=apache-kafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
