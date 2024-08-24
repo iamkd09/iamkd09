@@ -17,6 +17,7 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 - **Backend Development**: Building scalable backend systems and APIs.
 - **Automation Scripts**: Writing scripts to automate repetitive tasks and enhance productivity.
 - **Data Processing**: Leveraging various libraries and tools for efficient data processing and analysis.
+- **Microservices**: Designing and implementing microservices architecture for modular, maintainable, and scalable applications.
 
 ## 📈 My Projects
 
