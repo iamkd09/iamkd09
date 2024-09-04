@@ -10,7 +10,7 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 - **Backend Development**: Python, Go,  Django, Django REST Framework, FAST API
 - **Automation**: Creating automation scripts to streamline processes
 - **Databases**: MySQL, SQL
-- **Other Tools**: Kafka, OpenCV, Keras, Postman
+- **Other Tools**: Kafka, OpenCV, Keras, Postman, Jenkins
 
 ## 🌟 What I Do
 
