@@ -28,9 +28,9 @@ I'm a passionate **Software Developer Engineer** specializing in backend develop
 
 ## 🌐 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-dixit-079763197/)
-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/19274934/kanishk-dixit)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kanishkdixitkd9@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-dixit-079763197/)
+- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19274934/kanishk-dixit)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishkdixitkd9@gmail.c)
   
 
 ## 📬 Let's Get in Touch!
